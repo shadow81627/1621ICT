@@ -1,0 +1,22 @@
+	h1, h2 {
+	   text-align: center;
+	}
+
+	.bodytext {
+	   text-align: left;
+	}
+
+	#contact {
+	   text-align: right;
+	}
+
+	#box {
+	   border: 0.5em solid black;
+	   width: 40em;
+	   padding: 1em;
+	   margin-right: auto;
+	   margin-left: auto;
+	}
+	  
+	  /* Damien Robinson HTML5 Unit C, Independent Challenge 2. */
+	  

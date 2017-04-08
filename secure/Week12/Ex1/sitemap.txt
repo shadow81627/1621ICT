@@ -1,0 +1,3 @@
+www.examle.com/index.html
+www.examle.com/resources.html
+www.examle.com/hours.html

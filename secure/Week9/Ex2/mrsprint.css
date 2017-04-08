@@ -1,0 +1,175 @@
+/* Murfreesboro Regional Soccer League */
+/* Damien Robinson HTML5 Unit I, Independent Challenge 2 */
+article, aside, body, dd, div, dl, dt, figcaption, figure, footer, h1, h2, h3, header, li, nav, ol, p, section, table, th, td, ul {
+  margin: 0;
+  padding: 0;
+}
+article, figure, header, footer {
+  display: block;
+}
+article {
+  padding: 0 0.5em 0 0.5em;
+}
+article h3:after {
+  content: " Team";
+}
+body {
+  font-family: tahoma, arial, helvetica, sans-serif;
+
+}
+figure {
+  float: right;
+  padding: 1em 0 0.25em 0.5em;
+}
+figure img {
+  display: block;
+
+}
+h1, #affiliation {
+
+}
+h1, h2, #affiliation {
+  text-align: center;
+  padding: 0.1em;
+  font-family: georgia, "times new roman", times, serif;
+}
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.5em;
+  padding: 0.5em 0;
+}
+h3 {
+  padding: 0.25em;
+}
+header {
+
+  border-bottom: 5px solid black;
+}
+footer {
+  clear: left;
+}
+table {
+  margin: 1em 0;
+  border-collapse: collapse;
+}
+td {
+  border: 1px solid black;
+  padding: 0.25em;
+}
+th {
+  border: 1px solid black;
+  padding: 0.25em;
+  background: #e0e0e0;
+}
+#affiliation {
+  font-size: 1.25em;
+}
+#box {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  background: white;
+  border: 0.35em solid black;
+  position: relative;
+}
+#contact {
+  text-align: right;
+  padding: 0.5em;
+  color: black;
+
+  margin: 0;
+}
+#logo img {
+  display: block;
+  float: left;
+}
+#mainnav {
+  text-align: center;
+
+  margin: 0.5em 0 0 0;
+  padding: 0.25em;
+}
+#mainnav li {
+  display: inline;
+  list-style-type: none;
+  padding: 0.25em 1em;
+  margin: 0 0.25em;
+
+  border: 1px solid black;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+}
+#skipnav {
+  width: 960px;
+  text-align: right;
+  margin: 0 auto;
+  padding: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 2;
+}
+#skiplink {
+  padding: 0.25em 0.75em;
+  margin: 0;
+
+  border-bottom-left-radius: 20px;
+  -webkit-border-bottom-left-radius: 20px;
+  -moz-border-radius-bottomleft: 20px;
+}
+.toplink {
+  text-align: left;
+  padding: 0 1em 0 0;
+  margin: 0;
+}
+a:link {
+  color: black;
+}
+a:visited {
+  color: black;
+}
+a:hover {
+  color: black;
+}
+a:active {
+  color: black;
+}
+#pagenav a:link {
+  color: black;
+}
+#pagenav a:visited {
+  color: black;
+}
+#pagenav a:hover {
+  color: black;
+}
+#pagenav a:active {
+  color: black;
+}
+#mainnav a:link {
+  color: black;
+}
+#mainnav a:visited {
+  color: black;
+}
+#mainnav a:hover {
+  color: black;
+}
+#mainnav a:active {
+  color: black;
+}
+#skipnav a:link {
+  color: black;
+}
+#skipnav a:visited {
+  color: black;
+}
+#skipnav a:hover {
+  color: black;
+}
+#skipnav a:active {
+  color: black;
+}

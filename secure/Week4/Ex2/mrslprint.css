@@ -1,0 +1,34 @@
+﻿/* Murfreesboro Regional Soccer League */
+body {
+   text-align: left;
+   font-family: Tahoma, arial, helvetica, "sans serif";
+}
+h1{
+ font-family: Georgia, arial, helvetica, "sans serif";
+   text-align: center;
+   font-size: 2em;
+   padding: 0.1em;
+   margin: 0;
+}
+#narsa {
+   font-family: Georgia, arial, helvetica, "sans serif";
+   text-align: center;
+   font-size: 1.5em;
+   padding: 0.1em;
+   margin: 0;
+}
+#head {
+   padding: 0;
+   margin: 0;
+}
+#maintext {
+   padding: 0.5em;
+}
+#contact {
+   text-align: right;
+   padding: 0.5em;
+   margin: 0;
+}
+#name {
+   text-align: center;
+}

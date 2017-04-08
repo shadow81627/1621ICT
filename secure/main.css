@@ -1,0 +1,39 @@
+/* Style sheet for main page of 1621ict student labs and assessment */
+
+table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+thead {
+  background-color: #D0D0D0;
+}
+
+tbody {
+  text-align: center;
+}
+
+th {
+  border: 1px solid black;
+  padding: 4px;
+}
+
+td {
+  border: 1px solid black;
+  padding: 4px;
+}
+
+body {
+  background-color: #FFEEDD;
+}
+
+h1 {
+  text-align: center;
+  font-family: cursive;
+}
+
+p {
+  text-align: center;
+  font-size: 22px;
+}

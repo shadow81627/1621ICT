@@ -1,0 +1,3 @@
+www.examle.com/index.html
+www.examle.com/started.html
+www.examle.com/schedule.html

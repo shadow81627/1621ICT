@@ -1,0 +1,98 @@
+﻿/* Murfreesboro Regional Soccer League */
+/* Damien Robinson HTML5 Unit E, Indepentent Challenge 2 */
+body {
+  text-align: left;
+  font-family: tahoma, arial, helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  width: 42em;
+  margin-right: auto;
+  margin-left: auto;
+}
+h1, h2, #affiliation {
+  text-align: center;
+  padding: 0.1em;
+  margin: 0;
+  font-family: georgia, "times new roman", times, serif;
+}
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.5em;
+}
+#affiliation {
+  font-size: 1.25em;
+}
+header {
+  
+  border: 0.35em solid black;
+  background: #8CC63F;
+  padding: 0;
+  margin: 0;
+}
+#mainnav {
+  text-align: center;
+  background: black;
+  margin: 0;
+  padding: 0.25em;
+  border-bottom: 0.35em solid black;
+}
+#maintext {
+  padding: 0.5em;
+  border-left: 0.35em solid black;
+  border-right: 0.35em solid black;
+}
+footer {
+  text-align: right;
+  padding: 0.5em;
+  color: white;
+  background: black;
+  margin: 0;
+}
+#skipnav {
+  text-align: right;
+  margin: 0;
+  padding: 0;
+}
+.toplink {
+  text-align: right;
+  padding: 0 1em 0 0;
+  margin: 0;
+}
+#mainnav a:link {
+  color: white;
+}
+#mainnav a:visited {
+  color: #8CC63F;
+}
+#mainnav a:hover {
+  color: red;
+}
+#mainnav a:active {
+  color: #8CC63F
+}
+#pagenav a:link {
+  color: black;
+}
+#pagenav a:visited {
+  color: #754719;
+}
+#pagenav a:hover {
+  color: red;
+}
+#pagenav a:active {
+  color: #754719;
+}
+a:link {
+  color: #663300;
+}
+a:visited {
+  color: #663300;
+}
+a:hover {
+  color: black;
+}
+a:active {
+  color: #663300;
+}

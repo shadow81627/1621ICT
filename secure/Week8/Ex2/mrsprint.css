@@ -1,0 +1,205 @@
+﻿/* Murfreesboro Regional Soccer League */
+/*Damien Robinson HTML5 Unit H, Independent Challenge 2. */
+article, aside, body, dd, div, dl, dt, figcaption, figure, footer, h1, h2, h3, header, li, nav, ol, p, section, table, th, td, ul {
+  margin: 0;
+  padding: 0;
+}
+aside, figure, header, footer, nav {
+  display: block;
+}
+article {
+  padding: 10px;
+}
+article p {
+  font-size: 1.25em;
+  text-align: center;
+  padding-bottom: 15px;
+}
+aside {
+  float: right;
+  padding: 8px;
+  border-top: 5px solid black;
+  border-left: 5px solid black;
+  border-bottom: 5px solid black;
+  margin-left: 10px;
+  /*height: 250px;*/
+}
+body {
+  font-family: tahoma, arial, helvetica, sans-serif;
+}
+dd {
+  padding-left: 1.5em;
+}
+dt {
+  font-weight: bold;
+}
+figure {
+  float: right;
+  padding: 1em 0 0.25em 0.5em;
+  margin: 0;
+}
+footer {
+  border-top: 5px solid black;
+  clear: both;
+}
+h1 {
+  font-size: 2em;
+}
+h2 {
+  text-align: center;
+  font-size: 1.5em;
+}
+nav {
+  font-size: 1.25em;
+}
+nav ul {
+  margin-left: 0;
+}
+nav p {
+  text-align: center;
+}
+ol, ul {
+  margin-left: 2em;
+}
+table {
+  margin: 1em 0;
+  padding: 0;
+  border-collapse: collapse;
+}
+td {
+  border: 1px solid black;
+  padding: 0.25em;
+}
+th {
+  border: 1px solid black;
+  padding: 0.25em;
+}
+ul {
+  list-style-image:url("images/browntri.gif");
+}
+#logo2 {
+display: block;
+  position: absolute;
+  left: 0px;
+}
+#logo {
+  position: absolute;
+  right: 0px;
+}
+#m {
+  position: relative;
+  left: 316px;
+}
+#r{
+  position: relative;
+  left: 356px;
+}
+#s {
+  position: relative;
+  left: 396px;
+}
+#l {
+  position: relative;
+  left: 436px;
+}
+#box {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  background: black;
+  border: 0.35em solid black;
+  position: relative;
+}
+#contact {
+  text-align: right;
+  padding: 0.5em;
+  margin: 0;
+}
+#mainnav {
+  text-align: left;
+  width: 175px;
+  float: left;
+  border-top: 5px solid black;
+  border-right: 5px solid black;
+  border-bottom: 5px solid black;
+  margin-right: 10px;
+  /*height: 250px; */
+  /*padding-bottom: 16px;*/
+  display: none;
+}
+#mainnav a {
+  text-decoration: none;
+}
+#mainnav li {
+  display: block;
+  list-style-type: none;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
+  margin-top: 0.25em;
+}
+#maintext {
+  padding: 0 0.5em;
+}
+#skipnav {
+  width: 960px;
+  text-align: right;
+  margin: 0 auto;
+}
+#skiplink {
+  padding: 0.25em;
+}
+.callout {
+  font-weight: bold;
+}
+.toplink {
+  text-align: left;
+  padding-right: 1em;
+}
+a:link {
+  color: black;
+}
+a:visited {
+  color: black;
+}
+a:hover {
+  color: black;
+}
+a:active {
+  color: black;
+}
+#pagenav a:link {
+  color: black;
+}
+#pagenav a:visited {
+  color: black;
+}
+#pagenav a:hover {
+  color: black;
+}
+#pagenav a:active {
+  color: black;
+}
+#mainnav a:link {
+  color: black;
+}
+#mainnav a:visited {
+  color: black;
+}
+#mainnav a:hover {
+  color: black;
+}
+#mainnav a:active {
+  color: black;
+}
+#skipnav a:link {
+  color: black;
+}
+#skipnav a:visited {
+  color: black;
+}
+#skipnav a:hover {
+  color: black;
+}
+#skipnav a:active {
+  color: black;
+}
